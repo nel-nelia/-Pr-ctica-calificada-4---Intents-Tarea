@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Truck - Nelia</string>
+    <string name="str_nombre">Ingrese su Nombre:</string>
+
+    <string name="str_texto">MENU DE HOY</string>
+    <string name="str_texto2">Escoja su pedido:</string>
+
+    <string name="ckb_op1">Lomo Saltado</string>
+    <string name="ckb_op2">Pescado frito</string>
+    <string name="ckb_op3">Papa a la Huancaina con filete</string>
+    <string name="ckb_op4">Estofado con pure de papa</string>
+    <string name="ckb_op5">Patel de papa</string>
+    <string name="ckb_op6">Rocoto Relleno</string>
+
+    <string name="str_send">CONFIRMAR PEDIDO</string>
+    <string name="send_to">Enviar por:</string>
+</resources>
